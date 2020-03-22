@@ -1,0 +1,8 @@
+{
+    "url_get": "http://localhost:3000/employees",
+    "url_delete": "http://localhost:3000/employees/9",
+    "url_post": "http://localhost:3000/employees/",
+    "first_name":"Jason",
+    "last_name" :"Passion",
+    "email":"ksj@lk.lk"
+}
